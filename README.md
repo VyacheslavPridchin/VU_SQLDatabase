@@ -1,5 +1,5 @@
 # VU_SQLDatabase
 
-Структура MySQL базы данных для Overlay Клиента Виртуального университета
+MySQL database structure for Virtual University Overlay Client. It is required to import this file through phpMyAdmin into an empty database.
 
-Требуется импортировать данный файл через phpMyAdmin в пустую базу данных
+Структура MySQL базы данных для Overlay Клиента Виртуального университета. Требуется импортировать данный файл через phpMyAdmin в пустую базу данных.
